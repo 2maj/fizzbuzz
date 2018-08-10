@@ -1,0 +1,19 @@
+{
+  "name": "remmel/fizzbuzz",
+  "require": {
+  },
+  "authors": [
+    {
+      "name": "remmel",
+      "email": "remy.mellet@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^7.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Remmel\\": "src/"
+    }
+  }
+}
